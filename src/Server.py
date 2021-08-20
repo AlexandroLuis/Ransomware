@@ -1,6 +1,6 @@
 import socket
 
-IP_ADDRESS = '192.168.1.0'
+IP_ADDRESS = '192.168.1.0' # u should open a persistent server
 PORT = 5678
 
 print('Creating Socket')
