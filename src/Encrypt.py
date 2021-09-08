@@ -33,7 +33,7 @@ def encrypt(key):
             print('Error')
         q.task_done()
         
-# changing server.py, change here also :O
+# changing server.py, change here as well :O
 IP_ADDRESS = '192.168.1.0'
 PORT = 5678
 
