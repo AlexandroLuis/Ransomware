@@ -1,7 +1,7 @@
 import socket
 
-IP_ADDRESS = '192.168.1.85'  # u should open a persistent server
-PORT = 5678
+IP_ADDRESS = '192.168.1.85'  # u should open a persistent server with public ip
+PORT = 6745 # Use a non common port to comiunicate!
 
 print('Creating Socket')
 

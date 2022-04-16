@@ -35,7 +35,7 @@ def encrypt(key):
         
 # changing server.py, change here as well :O
 IP_ADDRESS = '192.168.1.0'
-PORT = 5678
+PORT = 6745
 
 ENCRYPTION_LEVEL = 512
 
